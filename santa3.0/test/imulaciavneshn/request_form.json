@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "http://127.0.0.1:8005/api/santa/audio",
+  "headers": {},
+  "form": {
+    "speaker": "santa"
+  },
+  "files": [
+    {
+      "field": "file",
+      "filename": "52a19964cc807d899e98bcfeb89042c9.mp3",
+      "content_type": "audio/mpeg"
+    }
+  ]
+}

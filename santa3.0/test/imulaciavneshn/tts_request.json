@@ -1,0 +1,22 @@
+{
+  "method": "POST",
+  "url": "https://fastapi.kreaai.inc/topmedia/api/v1/text2speech",
+  "params": {
+    "user_id": "com.test.test",
+    "app_bundle_id": "test"
+  },
+  "headers": {
+    "accept": "application/json",
+    "Content-Type": "application/json"
+  },
+  "json": {
+    "text": "Ho, ho, ho! The New Year is a wonderful celebration that marks the beginning of a new calendar year. It’s a time for reflection, new resolutions, and joyful festivities with family and friends. \n\nThe main symbol of the New Year varies around the world, but a popular one is the clock striking midnight, symbolizing the start of new beginnings. In many cultures, fireworks and festive decorations like sparkling lights and a New Year’s tree are also cherished symbols. \n\nMay your New Year be filled with joy, hope, and wonderful surprises! 🎉",
+    "speaker": "4e2c8f38-4a95-11f0-a003-00163e0e1a44",
+    "emotion_name": "Default",
+    "speed": 1,
+    "stability": 50,
+    "similarity": 95,
+    "exaggeration": 0,
+    "volume": 50
+  }
+}

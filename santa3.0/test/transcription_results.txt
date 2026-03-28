@@ -1,0 +1,15 @@
+FILE: c:\Users\xeon\Desktop\santa2.0\test\testaudio\5129546ee84f07a3947590c7f8027560.mp3
+ENGINE: google
+LANGUAGE: ru-RU
+TRANSCRIPT: What is the New Year What is the Main
+
+FILE: c:\Users\xeon\Desktop\santa2.0\test\testaudio\52a19964cc807d899e98bcfeb89042c9.mp3
+ENGINE: google
+LANGUAGE: ru-RU
+TRANSCRIPT: What is the New Year What is the Main Simple of the Ne
+
+FILE: c:\Users\xeon\Desktop\santa2.0\test\testaudio\cb3a7ca5de4fbe7df4f793ac3f4d844d.mp3
+ENGINE: google
+LANGUAGE: ru-RU
+TRANSCRIPT: Center What is the New Year What is the Mind Symbol of the Ne
+
